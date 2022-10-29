@@ -1,0 +1,42 @@
+cream, soft colours. simple.
+
+daniel hooper
+pro: simple, easy to navigate
+con: black and white, squarish font
+
+kitty north
+pro: simple layout - name & pic. burger icon
+
+david mankin
+pro: simple layout, changing pics
+
+anthony garratt
+pro: click on pic for more info, with back arrow
+
+brian sostrom
+
+chris long - animated burger icon, main page gallery with arrows
+
+jenny saville - 
+
+
+
+LAYOUT: 
+Single page layout
+
+fixed/collapsible navbar which highlights on links and colour changing logo. 
+semi-transparent so adopts colour of section being viewed
+each link corresponds to a screen of the single page layout
+(animated hamburger icon with further options)
+STICKY NAVBAR WITH HIGHLIGHTS: https://www.jorgerigabert.com/#hola
+
+Splash screen - b&w photo of Aimee with social media links and name etc
+
+Gallery Screen - 'enter gallery' link (to external page) at bottom
+
+Biog Screen - photo of Aimee, biog
+changing pic gallery, mini biog, contact button, social media icons
+
+
+
+
