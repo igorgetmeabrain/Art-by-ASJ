@@ -37,6 +37,8 @@ Gallery Screen - 'enter gallery' link (to external page) at bottom
 Biog Screen - photo of Aimee, biog
 changing pic gallery, mini biog, contact button, social media icons
 
+Hide mouse on website and click to enter password and admin settings
+
 
 
 
